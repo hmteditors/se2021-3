@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?Sxml version="1.0" encoding="UTF-8"?>
 <?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -23,25 +23,6 @@
     <group n="4">
       <text n="msB">
         <body>
-          <div n="51r_5" type="scholion">
-            <div n="lemma">
-              <p>
-                <num value="19">ιθ</num>
-              </p>
-            </div>
-            <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.1@οἱ</p>
-            </div>
-            <div n="comment">
-              <p>πιθανῶς ἐκ τοῦ κάτωθεν θορύβου, ἐις 
-                 <choice><abbr>ὀυνὸν</abbr><expan>οὐρανὸν</expan></choice>
-                τὴν σκηνὴν μετήγαγεν: σεμνύνων καὶ ποικίλλων ἅμα τὴν ποίησιν,
-                τόποις τὲ καὶ προσώποις καὶ λόγοις: ὑπονοεῖν δε δεῖ παρὰ τὴν
-                ἁρπαγὴν ἀλεξάνδρου τοὺς λογους γεγενῆσθαι τοῖς θεοῖς:  ηὔξησε δὲ 
-                τὸ ἀγωνιστικὸν τῆς ὑποθέσεως τῇ τῶν θεῶν προνοίᾳ ⁑
-              </p>
-            </div>
-          </div>
           <div n="52v_1" type="scholion">
             <div n="lemma">
               <p>
@@ -52,10 +33,14 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.60@γενεῇ</p>
             </div>
             <div n="comment">
-              <p>  ἐπὶ τῶν ἑξω τούτων ἡ <q>γενεὰ</q> λαμβάνεται: ἐπὶ ἡλικίας,
-               ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.707</ref><q>ὁπλότερος γενεήν</q></cit>: ἐπὶ εὐγενείας, ὡς τὸ 
-               <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.786</ref><q>γενεῇ μὲν ὑπέρτερος</q></cit>: ἐπὶ ἐκγόνων, ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.303</ref><q>ὄφρα μὴ ἄσπερμος
-                γενεή</q></cit>: ⁑
+              <p>  ἐπὶ τῶν ἑξ τούτων ἡ <q>γενεὰ</q> λαμβάνεται: ἐπὶ ἡλικίας,
+               ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.707</ref><q>ὁπλότερος γενεήν</q></cit>:
+                ἐπὶ εὐγενείας, ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.786</ref><q>γενεῇ μὲν ὑπέρτερος</q></cit>: 
+                ἐπὶ ἐκγόνων, ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.303</ref><q>ὄφρα μὴ ἄσπερμος
+                γενεή</q></cit>:
+                ἐπὶ <choice><abbr>πρίδος</abbr><expan>πατρίδος</expan></choice>: ὡς τὸ<cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.390</ref><q>γενεὴ δέ τοι ἔστ' ἐνὶ <placeName n="urn:cite2:hmt:place.v1:place69">Λήμνῳ</placeName></q></cit>: 
+                ἐπὶ ὡρισμένου χρόνου: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.250</ref><q>τῷ δ' ἤδη δύο μὲν γενεαί</q></cit>: 
+                ἡ γὰρ τοιαύτη γενεὰ, <num value="30">λ</num> ἔχει χρόνους: ⁑
               </p>
             </div>
           </div>
