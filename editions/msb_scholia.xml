@@ -40,8 +40,23 @@
                 γενεή</q></cit>:
                 ἐπὶ <choice><abbr>πρίδος</abbr><expan>πατρίδος</expan></choice>: ὡς τὸ<cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.390</ref><q>γενεὴ δέ τοι ἔστ' ἐνὶ <placeName n="urn:cite2:hmt:place.v1:place69">Λήμνῳ</placeName></q></cit>: 
                 ἐπὶ ὡρισμένου χρόνου: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.250</ref><q>τῷ δ' ἤδη δύο μὲν γενεαί</q></cit>: 
-                ἡ γὰρ τοιαύτη γενεὰ, <num value="30">λ</num> ἔχει χρόνους: ⁑
+                ἡ γὰρ τοιαύτη γενεὰ, <num value="30">λ</num> ἔχει χρόνους:                 
+                ἐπὶ φύσεως: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.146</ref><q>οἵη περ φύλλων γενεή</q></cit> : 
+                λαμβάνεται δὲ καὶ ἐπὶ χρόνου ζωῆς <choice><abbr>ἀνών</abbr><expan>ἀνθρώπων</expan></choice>: ὡς τὸ <q>ἐννέα γὰρ ζῶσι γενεάς</q> ⁑
               </p>
+            </div>
+          </div>
+          <div n="52v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">β</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.61@κέκλημαι</p>
+            </div>
+            <div n="comment">
+              <p> οὐκ ἔστι τελεία εἰς τὸ κέκλημαι φησὶ γάρ: διότι σοῦ εἰμὶ γυνὴ τοῦ πάντων ἀνάσσοντος: τοῦτο δὲ δηλοῖ τὸ κέκλημαι: ἡδὺ δὲ καὶ τὸ τῆς ἐξαλλαγῆς: ⁑ </p>
             </div>
           </div>
       
